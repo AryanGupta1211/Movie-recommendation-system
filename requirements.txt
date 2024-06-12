@@ -1,6 +1,4 @@
-altair==5.3.0
 bz2file==0.98
 numpy==1.26.4
 pandas==2.2.2
-sikcit-learn
 streamlit==1.35.0
